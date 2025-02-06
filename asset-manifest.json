@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-alert-app/static/css/main.c27a8ec9.css",
+    "main.js": "/my-alert-app/static/js/main.81d89c71.js",
+    "static/js/488.5f128b09.chunk.js": "/my-alert-app/static/js/488.5f128b09.chunk.js",
+    "index.html": "/my-alert-app/index.html",
+    "main.c27a8ec9.css.map": "/my-alert-app/static/css/main.c27a8ec9.css.map",
+    "main.81d89c71.js.map": "/my-alert-app/static/js/main.81d89c71.js.map",
+    "488.5f128b09.chunk.js.map": "/my-alert-app/static/js/488.5f128b09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27a8ec9.css",
+    "static/js/main.81d89c71.js"
+  ]
+}
